@@ -75,5 +75,5 @@ for website in WEBSITES:
     else:
         print(f'No IPs extracted for site: {website}')
 
-with open('website_ip_trace.json', 'w') as out_json:
+with open('./data/website_ip_trace.json', 'w') as out_json:
     json.dump(trace_list, out_json)
