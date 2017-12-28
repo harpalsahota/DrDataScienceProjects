@@ -1,5 +1,5 @@
 """
-A script to obtain the path of web requests
+A script to obtain the IPs of web requests
 """
 
 import json
