@@ -1,3 +1,8 @@
+"""
+Script to generate JSON data for life expectancy post
+https://www.drdatascience.co.uk/portfolio/life-expectancy
+"""
+
 import json
 
 import pandas as pd
